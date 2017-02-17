@@ -20,3 +20,5 @@ drwxr-xr-x  2 ahmad.farhan52 StafCS 4096 Feb 17 16:15 week09
 drwxr-xr-x  2 ahmad.farhan52 StafCS 4096 Feb 17 16:16 week10
 drwxr-xr-x  2 ahmad.farhan52 StafCS 4096 Feb 17 16:16 xtra
 /home/fasilkom/mahasiswa/a/ahmad.farhan52/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 17 Feb 2017 at 16:53:03
