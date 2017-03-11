@@ -1,0 +1,11 @@
+w04-170307-10-LR-About: Addressing, Pointer & I/O Programming, From: Lecturer
+w04-170307-10-LR-About: Addressing, Pointer & I/O Programming, From: Lecturer
+w04-170307-11-LR-About: Addressing, Pointer & I/O Programming, From: Lecturer
+w04-170309-10-LR-About: Addressing, Pointer & I/O Programming, From: Lecturer
+wo4-170309-10-LR-About: Addressing, Pointer & I/O Programming, From: Lecturer
+W04-170309-11-LR-About: Addressing, Pointer & I/O Programming, From: Lecturer
+w04-170310-16-PS-About: Global Variable Address vs Local Variable Address
+w04-170310-16-PS-About: Global Variable Address vs Local Variable Address
+w04-170311-08-PS-About: Pointer
+w04-170311-13-PS-About: I/O Process
+w04-170311-13-PS-About: I/O Process &  Log 
